@@ -1,0 +1,38 @@
+body{
+    background-color: #fff000;
+    
+}
+
+#parrafo{
+    color: #ee00ff;
+}
+
+.etiqueta{
+    color:#00aa00
+}
+.caja{
+    margin:8px;
+    background-color: crimson;
+    padding: 8px;
+    border-style: dashed outset double;
+    border-width:8px ;
+    border-color: #faa;
+    border-top: ;
+}
+.caja2{
+    margin:8px;
+    background-color: crimson;
+    padding: 8px;
+    border-style: solid;
+    border-width:8px ;
+    border-color: #faa;
+    border-top:6px solid #eee ;
+    border-bottom: 6px solid #a00;
+    border-left:6px solid #afa ;
+    border-right:6px solid #afa ;
+    border-radius: 9px;
+    height: 100px;
+    width: 100px;
+    color:#fa0
+
+}
